@@ -17,6 +17,7 @@ h2 {
   top: 40%;
   left: 50%;
   margin-right: -50%;
+  text-decoration-thickness: 3px;
   transform: translate(-50%, -50%);
   font-family: Arial, Helvetica, sans-serif;
 }
