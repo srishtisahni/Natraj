@@ -1,9 +1,9 @@
 body {
-  background-color: #CE2F2B;
+  background-color: #FFFFFF;
 }
 h1 {
     margin: 0;
-    color: #FFFFFF;
+    color: #CE2F2B;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -12,7 +12,7 @@ h1 {
 }
 h2 {
   margin: 0;
-  color: #FFFFFF;
+  color: #CE2F2B;
   position: absolute;
   top: 40%;
   left: 50%;
